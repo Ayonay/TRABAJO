@@ -1,0 +1,114 @@
+body {
+    background-image: url("/Users/Ayonay/Desktop/TRABAJO/Imagenes/FormacionL.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+#carousel-inner{
+justify-content: center;
+}
+p {
+    font-family: 'Alkatra', cursive;
+}
+
+.aprender{
+color: white;
+background-color:grey ;
+margin-top: 2%;
+margin-left: 20%;
+margin-right: 20%;
+margin-bottom: 2%;
+
+}
+
+.card-img-top {
+    object-fit: cover;
+    
+}
+
+#items {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;  
+}
+
+@media(max-width: 580px) {
+    .cartel{
+      width:100%;
+    }
+    #oculto2 {
+        display: none;
+    }
+    #carta-central {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+  }
+
+  @media(max-width: 1024px) {
+    .oculto {
+        display: none;
+    }
+  }
+
+.foto {
+    width: 2%;
+}
+
+.foto2 {
+    width: 2%;
+}
+
+.aprender2 {
+    text-align: end;
+    color: white;
+    margin-right: 5%;
+    align-items: center;
+}
+
+.card-group {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+#carta-central {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.text-center {
+    margin-top: 5%;
+}
+
+.pt-4 {
+    height: 80px;
+}
+#flush-collapseOne, #flush-collapseTwo, #flush-collapseThree {
+    color: white;
+    background-color: black;
+    
+}
+
+#flush-headingOne, #flush-headingTwo, #flush-headingThree {
+    background-color: white;
+    color: black;
+}
+
+.accordion-flush {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.Texto {
+    text-align: center;
+    margin-top: 5%;
+    background-color: white;
+    color: black;
+    font-family: 'Alkatra', cursive;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
