@@ -1,0 +1,17 @@
+div {
+    align-content: center;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    align-items: center;
+}
+
+#foto {
+    width: 2%;
+}
+
+#contenedor {
+    align-content: center;
+}
